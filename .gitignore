@@ -1,0 +1,10 @@
+node_modules
+chave-api.txt
+
+banco de dados -> user:rufinoguilherme633 ;senha: FTxV8PqlPoCwDKqM mongo atlas
+
+
+
+mongodb+srv://<db_username>:<db_password>@cluster0.unhya.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+.env
